@@ -10,7 +10,9 @@
         "main.blocks",
         "main.ts",
         "images.g.jres",
-        "images.g.ts"
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -28,14 +30,14 @@
         "#000000",
         "#FFFFFF",
         "#FF0000",
-        "#FF007D",
-        "#FF7a00",
-        "#e5FF00",
-        "#2D9F00",
-        "#00FF72",
+        "#B0B0A0",
+        "#888868",
+        "#F8B11A",
+        "#00572C",
+        "#003E1A",
+        "#02683E",
         "#0034FF",
-        "#17ABFF",
-        "#C600FF",
+        "#60E907",
         "#636363",
         "#7400DB",
         "#00EFFF",
