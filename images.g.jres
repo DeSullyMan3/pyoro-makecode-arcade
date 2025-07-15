@@ -34,6 +34,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "bg"
     },
+    "image8": {
+        "data": "hwQQABAAAADw/wAAAAAAAPBVDwDw/wAA8FX1AF/1AADwX1X/Vf8AAPDxVVX1EQ/wL///VR8RDw8v//EiERH//y8f8SIREQ8AL/IvIhERD/DwIiIiHxH/D/AiIiLy8QD/AP8iIiIPAAAAAP8iIg8AAAAAAC8iDwAAAAAA8PIAAAAAAADw/wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pyoro_extend_l"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAADw/wAAAAAAAPDyAAAAAAAALyIPAAAAAP8iIg8AAAD/IiIiDwAA8CIiIvLxAP/wIiIiHxH/Dy/yLyIREQ/wLx/xIhERDwAv//EiERH//y///1UfEQ8P8PFVVfURD/DwX1X/Vf8AAPBV9QBf9QAA8FUPAPD/AADw/wAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pyoro_extend_r"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
